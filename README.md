@@ -15,3 +15,4 @@ El correo basura, también conocido como spam, es un desafío persistente que af
 ## Requisitos
 
 - Python 3.x
+
