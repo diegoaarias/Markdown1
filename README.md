@@ -12,7 +12,4 @@ El correo basura, también conocido como spam, es un desafío persistente que af
 - Evaluación de la precisión del algoritmo utilizando datos de prueba.
 - Interfaz de línea de comandos (CLI) que permite probar el algoritmo en correos electrónicos personalizados.
 
-## Requisitos
-
-- Python 3.x
 
