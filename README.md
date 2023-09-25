@@ -11,5 +11,3 @@ El correo basura, también conocido como spam, es un desafío persistente que af
 - Identificación de correos electrónicos como spam o no spam.
 - Evaluación de la precisión del algoritmo utilizando datos de prueba.
 - Interfaz de línea de comandos (CLI) que permite probar el algoritmo en correos electrónicos personalizados.
-
-
